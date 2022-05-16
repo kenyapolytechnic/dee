@@ -1,0 +1,86 @@
+# main links
+main:
+  - title: "Explore All Lessons"
+    url: /sabbath-school/sabbath-school-lesson-topics/
+  - title: "Quotes"
+    url: /quotes/
+
+
+# lesson links
+lessons:
+  - title: Index of Lesson Topics
+    url: "/sabbath-school/sabbath-school-lesson-topics"
+    children:
+      - title: 1888 - 1890
+        url: /1888-1890/
+      - title: 1891 - 1900
+        url: /1891-1900/
+      - title: 1901 - 1910
+        url: /1901-1910/
+      - title: 1911 - 1920
+        url: /1911-1920/
+      - title: 1921 - 1930
+        url: /1921-1930/
+      - title: 1931 - 1940
+        url: /1931-1940/
+      - title: 1941 - 1950
+        url: /1941-1950/
+      - title: 1951 - 1960
+        url: /1951-1960/
+      - title: 1961 - 1970
+        url: /1961-1970/
+      - title: 1971 - 1980
+        url: /1971-1980/
+      - title: 1981 - 1990
+        url: /1981-1990/
+      - title: 1991 - 2000
+        url: /1991-2000/
+      - title: 2001 - 2010
+        url: /2001-2010/
+      - title: 2011 - 2020
+        url: /2011-2020/
+      - title: 2021 - 2022
+        url: /2021-2022/
+
+# # sidebar navigation list sample
+# sidebar-sample:
+#   - title: "Parent Page A"
+#     children:
+#       - title: "Child Page A1"
+#         url: /
+#       - title: "Child Page A2"
+#         url: /
+#       - title: "Child Page A3"
+#         url: /
+#       - title: "Child Page A4"
+#         url: /
+#   - title: "Parent Page B"
+#     children:
+#       - title: "Child Page B1"
+#         url: /
+#       - title: "Child Page B2"
+#         url: /
+#       - title: "Child Page B3"
+#         url: /
+#       - title: "Child Page B4"
+#         url: /
+#       - title: "Child Page B5"
+#         url: /
+#   - title: "Parent Page C"
+#     children:
+#       - title: "Child Page C1"
+#         url: /
+#       - title: "Child Page C2"
+#         url: /
+#       - title: "Child Page C3"
+#         url: /
+#       - title: "Child Page C4"
+#         url: /
+#       - title: "Child Page C5"
+#         url: /
+#   - title: "Parent Page D"
+#     children:
+#       - title: "Child Page D1"
+#         url: /
+#       - title: "Child Page D2"
+#         url: /

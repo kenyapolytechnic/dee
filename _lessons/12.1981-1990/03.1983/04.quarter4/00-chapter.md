@@ -1,0 +1,14 @@
+---
+classes: wide
+permalink: /1981-1990/1983/quarter4/
+title: Songs of Experience
+metadata:
+    description: Songs of Experience
+    keywords: Songs of Experience
+    author: Brian Onang'o
+---
+
+#### Songs of Experience
+
+## 1983 Quater 4
+

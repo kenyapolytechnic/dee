@@ -1,0 +1,16 @@
+# Authors
+
+Brian Onang'o:
+  name        : "Brian Onang'o"
+  bio         : "A missionary with the mind of a mechatronic engineer."
+  avatar      : "/assets/images/brian.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "editor@gospelsounders.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://gospelsounders.org"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/extravagantman"
